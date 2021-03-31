@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ Este\ programa\ calcula\ la\ cantidad\ de\ hojas\ que\ se\ necesitan\ para\r\n\ poder\ imprimir\ N\ paginas.\r\n\r\n\ @author\ (CarlaY)\r\n@version\ (1.0)
+comment1.params=paginas
+comment1.target=int\ numeroPaginas(int)
+numComments=2

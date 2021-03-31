@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Este\ programa\ calcula\ el\ area\ de\ un\ dodecagono.\r\n\r\n\ @author\ (CarlaY)\r\n\ @version\ (1.0)\r\n
+comment1.params=radio
+comment1.target=int\ areaDod(int)
+numComments=2

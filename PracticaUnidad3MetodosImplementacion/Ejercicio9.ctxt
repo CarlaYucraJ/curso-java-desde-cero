@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio9
+comment0.text=\r\n\ Este\ programa\ nos\ ayuda\ a\ saber\ cuantos\ seguidores\ mas\ podemos\ tener\ a\ parte\ \r\n\ de\ los\ que\ ya\ tenemos.\r\n\r\n\ @author\ (CarlaY)\r\n\ @version\ (2.0)\r\n
+comment1.params=seguidores\ seguidos
+comment1.target=int\ calcularCantidadSeguidores(int,\ int)
+numComments=2

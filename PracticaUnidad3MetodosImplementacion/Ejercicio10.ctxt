@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio10
+comment0.text=\r\n\ Este\ programa\ nos\ devuelve\ la\ cantidad\ de\ ml\ que\ sobran\ tran\ x\ segundos\ transcurridos.\r\n\r\n\ @author\ (CarlaY)\r\n\ @version\ (1.0)\r\n
+comment1.params=ml\ seg
+comment1.target=int\ devolverCantidadMl(int,\ int)
+numComments=2

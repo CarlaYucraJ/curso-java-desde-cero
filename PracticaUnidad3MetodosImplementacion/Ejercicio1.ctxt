@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Este\ programa\ calcula\ el\ tiempo\ que\ falta\ para\ que\ empiece\ la\ primavera.\r\n\r\n\ @author\ (CarlaY)\r\n\ @version\ (1.0)\r\n
+comment1.params=hora19Sep
+comment1.target=int\ tiempoQueFalta(int)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio7
+comment0.text=\r\n\ Este\ programa\ nos\ permite\ calcular\ el\ valor\ maximo\ de\ poder.\r\n\r\n\ @author\ (CarlaY)\r\n\ @version\ (1.0)\ \r\n
+comment1.params=p\ x\ n
+comment1.target=int\ calcularPoderMAx(int,\ int,\ int)
+numComments=2
